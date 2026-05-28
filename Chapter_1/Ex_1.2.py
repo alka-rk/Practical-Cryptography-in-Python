@@ -1,4 +1,5 @@
 # Exercises 1.2
+# AUTOMATED DECODING 
 
 import string
 from nltk.corpus import words
